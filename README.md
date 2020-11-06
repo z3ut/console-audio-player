@@ -1,5 +1,5 @@
-# RSS Reader
+# Console Audio Player
 
-Desktop RSS Reader
+Console Audio Player made with F#
 
 <img src="img/audio-player.png" width="500">
